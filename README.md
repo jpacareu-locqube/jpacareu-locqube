@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jpacareu-locqube
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning Terraform
+- 💞️ I’m looking to collaborate on Frontend
+- 📫 How to reach me Javier Pacareu
+- ⚡ Fun fact: I jumped from a 🪂
